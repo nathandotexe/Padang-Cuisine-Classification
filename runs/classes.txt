@@ -1,0 +1,9 @@
+ayam_goreng
+ayam_pop
+daging_rendang
+dendeng_batokok
+gulai_ikan
+gulai_tambusu
+gulai_tunjang
+telur_balado
+telur_dadar
